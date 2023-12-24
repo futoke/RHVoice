@@ -10,9 +10,6 @@
 [submodule "data/voices/aleksandr-hq"]
 	path = data/voices/aleksandr-hq
 	url = https://github.com/rhvoice/aleksandr-hq-rus.git
-[submodule "data/languages/Polish"]
-	path = data/languages/Polish
-	url = https://github.com/RHVoice/Polish.git
 [submodule "external/libs/boost/libs/align"]
 	path = external/libs/boost/libs/align
 	url = https://github.com/boostorg/align.git
@@ -145,54 +142,12 @@
 [submodule "cmake/thirdParty/CCache"]
 	path = cmake/thirdParty/CCache
 	url = https://github.com/TheLartians/Ccache.cmake.git
-[submodule "data/languages/Albanian"]
-	path = data/languages/Albanian
-	url = https://github.com/RHVoice/Albanian.git
-[submodule "data/languages/Brazilian-Portuguese"]
-	path = data/languages/Brazilian-Portuguese
-	url = https://github.com/RHVoice/Brazilian-Portuguese.git
 [submodule "data/languages/English"]
 	path = data/languages/English
 	url = https://github.com/RHVoice/English.git
-[submodule "data/languages/Esperanto"]
-	path = data/languages/Esperanto
-	url = https://github.com/RHVoice/Esperanto.git
-[submodule "data/languages/Georgian"]
-	path = data/languages/Georgian
-	url = https://github.com/RHVoice/Georgian.git
-[submodule "data/languages/Kyrgyz"]
-	path = data/languages/Kyrgyz
-	url = https://github.com/RHVoice/Kyrgyz.git
-[submodule "data/languages/Macedonian"]
-	path = data/languages/Macedonian
-	url = https://github.com/RHVoice/Macedonian.git
 [submodule "data/languages/Russian"]
 	path = data/languages/Russian
 	url = https://github.com/RHVoice/Russian.git
-[submodule "data/languages/Tatar"]
-	path = data/languages/Tatar
-	url = https://github.com/RHVoice/Tatar.git
-[submodule "data/languages/Ukrainian"]
-	path = data/languages/Ukrainian
-	url = https://github.com/RHVoice/Ukrainian.git
 [submodule "data/voices/aleksandr"]
 	path = data/voices/aleksandr
 	url = https://github.com/RHVoice/aleksandr-rus.git
-[submodule "data/languages/Czech"]
-	path = data/languages/Czech
-	url = https://github.com/RHVoice/Czech.git
-[submodule "data/languages/Uzbek"]
-	path = data/languages/Uzbek
-	url = https://github.com/RHVoice/Uzbek-bin.git
-[submodule "src/scripts/Uzbek"]
-	path = src/scripts/Uzbek
-	url = https://github.com/RHVoice/Uzbek-src.git
-[submodule "data/languages/Slovak"]
-	path = data/languages/Slovak
-	url = https://github.com/RHVoice/Slovak.git
-[submodule "data/languages/Serbian"]
-	path = data/languages/Serbian
-	url = https://github.com/RHVoice/Serbian-bin
-[submodule "src/scripts/Serbian"]
-	path = src/scripts/Serbian
-	url = https://github.com/RHVoice/Serbian-src
