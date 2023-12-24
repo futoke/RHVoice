@@ -28,8 +28,6 @@ createLangCodeToNameMapping()
 set("VOICE_aleksandr_LANG" "ru")
 set("VOICE_aleksandr-hq_LANG" "ru")
 
-
-
 cpack_add_component_group("data"
 	DISPLAY_NAME "Data files"
 	DESCRIPTION "Various data required for synthesis"
